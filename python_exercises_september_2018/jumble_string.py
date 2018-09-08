@@ -8,9 +8,7 @@
 # Accepting the User Inputs
 
 user_string1 = input("Enter first string : ")
-str(user_string1)
 user_string2 = input("Enter second string : ")
-str(user_string2)
 print(user_string1)
 print(user_string2)
 

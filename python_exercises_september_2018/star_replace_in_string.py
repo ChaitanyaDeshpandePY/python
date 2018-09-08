@@ -10,12 +10,12 @@
 
 m = input("Enter the string : ")
 str(m)
-print(m[2])
+m[2]
 
  
 
 # Replacing  the first character - a with *
-y = m.replace('a','*',)
+y = m.replace(m[2],'*',)
 print(y)
 
 # Printing the Complete string

@@ -11,8 +11,6 @@
 # Accepting User Inputs
 num1 = input("Enter First number : ")
 num2 = input("Enter Second number : ")
-int(num1)
-int(num2)
 
 # Addition of 2 Numbers
 
